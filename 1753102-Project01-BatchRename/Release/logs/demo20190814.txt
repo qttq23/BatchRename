@@ -1,0 +1,10 @@
+2019-08-14 11:57:49.481 +07:00 [INF] MainWindow: Init
+2019-08-14 22:29:57.010 +07:00 [INF] MainWindow: Init
+2019-08-14 22:31:20.464 +07:00 [INF] MainWindow: Init
+2019-08-14 22:43:52.139 +07:00 [INF] MainWindow: Init
+2019-08-14 22:54:19.000 +07:00 [INF] MainWindow: Init
+2019-08-14 23:07:52.859 +07:00 [INF] MainWindow: Init
+2019-08-14 23:11:04.115 +07:00 [INF] MainWindow: Init
+2019-08-14 23:16:11.573 +07:00 [INF] MainWindow: Init
+2019-08-14 23:18:30.986 +07:00 [INF] MainWindow: Init
+2019-08-14 23:18:39.077 +07:00 [INF] MainWindow: Init

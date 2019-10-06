@@ -1,0 +1,2 @@
+2019-07-16 06:31:56.309 +07:00 [INF] MainWindow: Init
+2019-07-16 06:32:38.661 +07:00 [INF] MainWindow: Init

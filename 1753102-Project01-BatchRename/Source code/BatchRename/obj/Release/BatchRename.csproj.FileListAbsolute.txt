@@ -1,0 +1,120 @@
+C:\Users\khacv\source\repos\WpfApp1\BatchRename\bin\Release\BatchRename.exe.config
+C:\Users\khacv\source\repos\WpfApp1\BatchRename\bin\Release\BatchRename.exe
+C:\Users\khacv\source\repos\WpfApp1\BatchRename\bin\Release\BatchRename.pdb
+C:\Users\khacv\source\repos\WpfApp1\BatchRename\bin\Release\Serilog.dll
+C:\Users\khacv\source\repos\WpfApp1\BatchRename\bin\Release\Serilog.Sinks.File.dll
+C:\Users\khacv\source\repos\WpfApp1\BatchRename\bin\Release\Serilog.xml
+C:\Users\khacv\source\repos\WpfApp1\BatchRename\bin\Release\Serilog.Sinks.File.xml
+C:\Users\khacv\source\repos\WpfApp1\BatchRename\obj\Release\MainWindow.g.cs
+C:\Users\khacv\source\repos\WpfApp1\BatchRename\obj\Release\MoveControl.g.cs
+C:\Users\khacv\source\repos\WpfApp1\BatchRename\obj\Release\NameNormalizeControl.g.cs
+C:\Users\khacv\source\repos\WpfApp1\BatchRename\obj\Release\NewCaseControl.g.cs
+C:\Users\khacv\source\repos\WpfApp1\BatchRename\obj\Release\OptionsWindow.g.cs
+C:\Users\khacv\source\repos\WpfApp1\BatchRename\obj\Release\ReplaceControl.g.cs
+C:\Users\khacv\source\repos\WpfApp1\BatchRename\obj\Release\UniqueNameControl.g.cs
+C:\Users\khacv\source\repos\WpfApp1\BatchRename\obj\Release\App.g.cs
+C:\Users\khacv\source\repos\WpfApp1\BatchRename\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\khacv\source\repos\WpfApp1\BatchRename\obj\Release\BatchRename_MarkupCompile.cache
+C:\Users\khacv\source\repos\WpfApp1\BatchRename\obj\Release\BatchRename_MarkupCompile.lref
+C:\Users\khacv\source\repos\WpfApp1\BatchRename\obj\Release\MainWindow.baml
+C:\Users\khacv\source\repos\WpfApp1\BatchRename\obj\Release\MoveControl.baml
+C:\Users\khacv\source\repos\WpfApp1\BatchRename\obj\Release\NameNormalizeControl.baml
+C:\Users\khacv\source\repos\WpfApp1\BatchRename\obj\Release\NewCaseControl.baml
+C:\Users\khacv\source\repos\WpfApp1\BatchRename\obj\Release\OptionsWindow.baml
+C:\Users\khacv\source\repos\WpfApp1\BatchRename\obj\Release\ReplaceControl.baml
+C:\Users\khacv\source\repos\WpfApp1\BatchRename\obj\Release\UniqueNameControl.baml
+C:\Users\khacv\source\repos\WpfApp1\BatchRename\obj\Release\BatchRename.g.resources
+C:\Users\khacv\source\repos\WpfApp1\BatchRename\obj\Release\BatchRename.Properties.Resources.resources
+C:\Users\khacv\source\repos\WpfApp1\BatchRename\obj\Release\BatchRename.csproj.GenerateResource.cache
+C:\Users\khacv\source\repos\WpfApp1\BatchRename\obj\Release\BatchRename.csproj.CoreCompileInputs.cache
+C:\Users\khacv\source\repos\WpfApp1\BatchRename\obj\Release\BatchRename.csproj.CopyComplete
+C:\Users\khacv\source\repos\WpfApp1\BatchRename\obj\Release\BatchRename.exe
+C:\Users\khacv\source\repos\WpfApp1\BatchRename\obj\Release\BatchRename.pdb
+C:\Users\khacv\source\repos\WpfApp1\BatchRename\obj\Release\BatchRename.csprojAssemblyReference.cache
+C:\Users\khacv\Desktop\WP.Project1\1753102\BatchRename\bin\Release\BatchRename.exe.config
+C:\Users\khacv\Desktop\WP.Project1\1753102\BatchRename\bin\Release\BatchRename.exe
+C:\Users\khacv\Desktop\WP.Project1\1753102\BatchRename\bin\Release\BatchRename.pdb
+C:\Users\khacv\Desktop\WP.Project1\1753102\BatchRename\obj\Release\BatchRename.csprojAssemblyReference.cache
+C:\Users\khacv\Desktop\WP.Project1\1753102\BatchRename\obj\Release\MainWindow.g.cs
+C:\Users\khacv\Desktop\WP.Project1\1753102\BatchRename\obj\Release\MoveControl.g.cs
+C:\Users\khacv\Desktop\WP.Project1\1753102\BatchRename\obj\Release\NameNormalizeControl.g.cs
+C:\Users\khacv\Desktop\WP.Project1\1753102\BatchRename\obj\Release\NewCaseControl.g.cs
+C:\Users\khacv\Desktop\WP.Project1\1753102\BatchRename\obj\Release\OptionsWindow.g.cs
+C:\Users\khacv\Desktop\WP.Project1\1753102\BatchRename\obj\Release\ReplaceControl.g.cs
+C:\Users\khacv\Desktop\WP.Project1\1753102\BatchRename\obj\Release\UniqueNameControl.g.cs
+C:\Users\khacv\Desktop\WP.Project1\1753102\BatchRename\obj\Release\App.g.cs
+C:\Users\khacv\Desktop\WP.Project1\1753102\BatchRename\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\khacv\Desktop\WP.Project1\1753102\BatchRename\obj\Release\BatchRename_MarkupCompile.cache
+C:\Users\khacv\Desktop\WP.Project1\1753102\BatchRename\obj\Release\BatchRename_MarkupCompile.lref
+C:\Users\khacv\Desktop\WP.Project1\1753102\BatchRename\obj\Release\MainWindow.baml
+C:\Users\khacv\Desktop\WP.Project1\1753102\BatchRename\obj\Release\MoveControl.baml
+C:\Users\khacv\Desktop\WP.Project1\1753102\BatchRename\obj\Release\NameNormalizeControl.baml
+C:\Users\khacv\Desktop\WP.Project1\1753102\BatchRename\obj\Release\NewCaseControl.baml
+C:\Users\khacv\Desktop\WP.Project1\1753102\BatchRename\obj\Release\OptionsWindow.baml
+C:\Users\khacv\Desktop\WP.Project1\1753102\BatchRename\obj\Release\ReplaceControl.baml
+C:\Users\khacv\Desktop\WP.Project1\1753102\BatchRename\obj\Release\UniqueNameControl.baml
+C:\Users\khacv\Desktop\WP.Project1\1753102\BatchRename\obj\Release\BatchRename.g.resources
+C:\Users\khacv\Desktop\WP.Project1\1753102\BatchRename\obj\Release\BatchRename.Properties.Resources.resources
+C:\Users\khacv\Desktop\WP.Project1\1753102\BatchRename\obj\Release\BatchRename.csproj.GenerateResource.cache
+C:\Users\khacv\Desktop\WP.Project1\1753102\BatchRename\obj\Release\BatchRename.csproj.CoreCompileInputs.cache
+C:\Users\khacv\Desktop\WP.Project1\1753102\BatchRename\obj\Release\BatchRename.csproj.CopyComplete
+C:\Users\khacv\Desktop\WP.Project1\1753102\BatchRename\obj\Release\BatchRename.exe
+C:\Users\khacv\Desktop\WP.Project1\1753102\BatchRename\obj\Release\BatchRename.pdb
+C:\Users\khacv\Desktop\WP.Project1\1753102\Source code\BatchRename\bin\Release\BatchRename.exe.config
+C:\Users\khacv\Desktop\WP.Project1\1753102\Source code\BatchRename\bin\Release\BatchRename.exe
+C:\Users\khacv\Desktop\WP.Project1\1753102\Source code\BatchRename\bin\Release\BatchRename.pdb
+C:\Users\khacv\Desktop\WP.Project1\1753102\Source code\BatchRename\obj\Release\BatchRename.csprojAssemblyReference.cache
+C:\Users\khacv\Desktop\WP.Project1\1753102\Source code\BatchRename\obj\Release\MainWindow.g.cs
+C:\Users\khacv\Desktop\WP.Project1\1753102\Source code\BatchRename\obj\Release\MoveControl.g.cs
+C:\Users\khacv\Desktop\WP.Project1\1753102\Source code\BatchRename\obj\Release\NameNormalizeControl.g.cs
+C:\Users\khacv\Desktop\WP.Project1\1753102\Source code\BatchRename\obj\Release\NewCaseControl.g.cs
+C:\Users\khacv\Desktop\WP.Project1\1753102\Source code\BatchRename\obj\Release\OptionsWindow.g.cs
+C:\Users\khacv\Desktop\WP.Project1\1753102\Source code\BatchRename\obj\Release\ReplaceControl.g.cs
+C:\Users\khacv\Desktop\WP.Project1\1753102\Source code\BatchRename\obj\Release\UniqueNameControl.g.cs
+C:\Users\khacv\Desktop\WP.Project1\1753102\Source code\BatchRename\obj\Release\App.g.cs
+C:\Users\khacv\Desktop\WP.Project1\1753102\Source code\BatchRename\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\khacv\Desktop\WP.Project1\1753102\Source code\BatchRename\obj\Release\BatchRename_MarkupCompile.cache
+C:\Users\khacv\Desktop\WP.Project1\1753102\Source code\BatchRename\obj\Release\BatchRename_MarkupCompile.lref
+C:\Users\khacv\Desktop\WP.Project1\1753102\Source code\BatchRename\obj\Release\MainWindow.baml
+C:\Users\khacv\Desktop\WP.Project1\1753102\Source code\BatchRename\obj\Release\MoveControl.baml
+C:\Users\khacv\Desktop\WP.Project1\1753102\Source code\BatchRename\obj\Release\NameNormalizeControl.baml
+C:\Users\khacv\Desktop\WP.Project1\1753102\Source code\BatchRename\obj\Release\NewCaseControl.baml
+C:\Users\khacv\Desktop\WP.Project1\1753102\Source code\BatchRename\obj\Release\OptionsWindow.baml
+C:\Users\khacv\Desktop\WP.Project1\1753102\Source code\BatchRename\obj\Release\ReplaceControl.baml
+C:\Users\khacv\Desktop\WP.Project1\1753102\Source code\BatchRename\obj\Release\UniqueNameControl.baml
+C:\Users\khacv\Desktop\WP.Project1\1753102\Source code\BatchRename\obj\Release\BatchRename.g.resources
+C:\Users\khacv\Desktop\WP.Project1\1753102\Source code\BatchRename\obj\Release\BatchRename.Properties.Resources.resources
+C:\Users\khacv\Desktop\WP.Project1\1753102\Source code\BatchRename\obj\Release\BatchRename.csproj.GenerateResource.cache
+C:\Users\khacv\Desktop\WP.Project1\1753102\Source code\BatchRename\obj\Release\BatchRename.csproj.CoreCompileInputs.cache
+C:\Users\khacv\Desktop\WP.Project1\1753102\Source code\BatchRename\obj\Release\BatchRename.csproj.CopyComplete
+C:\Users\khacv\Desktop\WP.Project1\1753102\Source code\BatchRename\obj\Release\BatchRename.exe
+C:\Users\khacv\Desktop\WP.Project1\1753102\Source code\BatchRename\obj\Release\BatchRename.pdb
+C:\Users\khacv\Desktop\WP.Project1-BatchRename\1753102-Project01-BatchRename\Source code\BatchRename\bin\Release\BatchRename.exe.config
+C:\Users\khacv\Desktop\WP.Project1-BatchRename\1753102-Project01-BatchRename\Source code\BatchRename\bin\Release\BatchRename.exe
+C:\Users\khacv\Desktop\WP.Project1-BatchRename\1753102-Project01-BatchRename\Source code\BatchRename\bin\Release\BatchRename.pdb
+C:\Users\khacv\Desktop\WP.Project1-BatchRename\1753102-Project01-BatchRename\Source code\BatchRename\obj\Release\BatchRename.csprojAssemblyReference.cache
+C:\Users\khacv\Desktop\WP.Project1-BatchRename\1753102-Project01-BatchRename\Source code\BatchRename\obj\Release\MainWindow.g.cs
+C:\Users\khacv\Desktop\WP.Project1-BatchRename\1753102-Project01-BatchRename\Source code\BatchRename\obj\Release\MoveControl.g.cs
+C:\Users\khacv\Desktop\WP.Project1-BatchRename\1753102-Project01-BatchRename\Source code\BatchRename\obj\Release\NameNormalizeControl.g.cs
+C:\Users\khacv\Desktop\WP.Project1-BatchRename\1753102-Project01-BatchRename\Source code\BatchRename\obj\Release\NewCaseControl.g.cs
+C:\Users\khacv\Desktop\WP.Project1-BatchRename\1753102-Project01-BatchRename\Source code\BatchRename\obj\Release\OptionsWindow.g.cs
+C:\Users\khacv\Desktop\WP.Project1-BatchRename\1753102-Project01-BatchRename\Source code\BatchRename\obj\Release\ReplaceControl.g.cs
+C:\Users\khacv\Desktop\WP.Project1-BatchRename\1753102-Project01-BatchRename\Source code\BatchRename\obj\Release\UniqueNameControl.g.cs
+C:\Users\khacv\Desktop\WP.Project1-BatchRename\1753102-Project01-BatchRename\Source code\BatchRename\obj\Release\App.g.cs
+C:\Users\khacv\Desktop\WP.Project1-BatchRename\1753102-Project01-BatchRename\Source code\BatchRename\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\khacv\Desktop\WP.Project1-BatchRename\1753102-Project01-BatchRename\Source code\BatchRename\obj\Release\BatchRename_MarkupCompile.cache
+C:\Users\khacv\Desktop\WP.Project1-BatchRename\1753102-Project01-BatchRename\Source code\BatchRename\obj\Release\BatchRename_MarkupCompile.lref
+C:\Users\khacv\Desktop\WP.Project1-BatchRename\1753102-Project01-BatchRename\Source code\BatchRename\obj\Release\MainWindow.baml
+C:\Users\khacv\Desktop\WP.Project1-BatchRename\1753102-Project01-BatchRename\Source code\BatchRename\obj\Release\MoveControl.baml
+C:\Users\khacv\Desktop\WP.Project1-BatchRename\1753102-Project01-BatchRename\Source code\BatchRename\obj\Release\NameNormalizeControl.baml
+C:\Users\khacv\Desktop\WP.Project1-BatchRename\1753102-Project01-BatchRename\Source code\BatchRename\obj\Release\NewCaseControl.baml
+C:\Users\khacv\Desktop\WP.Project1-BatchRename\1753102-Project01-BatchRename\Source code\BatchRename\obj\Release\OptionsWindow.baml
+C:\Users\khacv\Desktop\WP.Project1-BatchRename\1753102-Project01-BatchRename\Source code\BatchRename\obj\Release\ReplaceControl.baml
+C:\Users\khacv\Desktop\WP.Project1-BatchRename\1753102-Project01-BatchRename\Source code\BatchRename\obj\Release\UniqueNameControl.baml
+C:\Users\khacv\Desktop\WP.Project1-BatchRename\1753102-Project01-BatchRename\Source code\BatchRename\obj\Release\BatchRename.g.resources
+C:\Users\khacv\Desktop\WP.Project1-BatchRename\1753102-Project01-BatchRename\Source code\BatchRename\obj\Release\BatchRename.Properties.Resources.resources
+C:\Users\khacv\Desktop\WP.Project1-BatchRename\1753102-Project01-BatchRename\Source code\BatchRename\obj\Release\BatchRename.csproj.GenerateResource.cache
+C:\Users\khacv\Desktop\WP.Project1-BatchRename\1753102-Project01-BatchRename\Source code\BatchRename\obj\Release\BatchRename.csproj.CoreCompileInputs.cache
+C:\Users\khacv\Desktop\WP.Project1-BatchRename\1753102-Project01-BatchRename\Source code\BatchRename\obj\Release\BatchRename.csproj.CopyComplete
+C:\Users\khacv\Desktop\WP.Project1-BatchRename\1753102-Project01-BatchRename\Source code\BatchRename\obj\Release\BatchRename.exe
+C:\Users\khacv\Desktop\WP.Project1-BatchRename\1753102-Project01-BatchRename\Source code\BatchRename\obj\Release\BatchRename.pdb
